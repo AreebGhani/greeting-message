@@ -1,0 +1,13 @@
+body {
+     background-color: rgb(107, 99, 99);
+     box-sizing: border-box;
+     margin: 0px;
+     padding: 0px;
+}
+
+.h1{
+    text-align: center;
+    margin: 150px 100px 100px;
+    background-color: rgb(128, 149, 126);
+    border-radius: 300px;
+}
